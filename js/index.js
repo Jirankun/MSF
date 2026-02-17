@@ -1,8 +1,8 @@
 // ============================================
 // KONFIGURASI - LANGSUNG PAKAI IP TETAP
 // ============================================
-const API_KEY = 'fac5eeb9729b0e00216a5a5a99558faed9cf8067c0123418f1bd5655d20db753';
-const BASE_URL = 'http://192.168.100.13:8000';
+const API_KEY = '679635afb206ddeda18f1022c0d9c00c87d499731d2f88e2444f76b370fb95f1';
+const BASE_URL = 'https://mobsf.live/';
 
 console.log('MobSF API Key:', API_KEY);
 console.log('MobSF Base URL:', BASE_URL);
